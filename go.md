@@ -7,6 +7,7 @@ GOPATH 值:
 echo $GOPATH
 /gopath1/src
 
+export  GOPATH=/gopath1/src
 
 测试url  :
 
